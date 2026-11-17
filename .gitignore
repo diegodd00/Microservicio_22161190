@@ -1,0 +1,21 @@
+
+# Backend
+back/target/
+back/application-local.properties
+back/.env
+
+# Frontend
+front/node_modules/
+front/dist/
+front/.env
+front/.env.*
+!front/.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
